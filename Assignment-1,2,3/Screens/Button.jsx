@@ -2,7 +2,7 @@ import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import CustomButton from './CustomButton'
 
-export default function App() {
+export default function Button() {
   const onPress = () => {
     console.log('clicked')
   }
