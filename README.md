@@ -1,4 +1,4 @@
-# Assingment Images
+# Assignment Images
 
 # Assignment 1
 ![](Images/WelcomePage.png)
